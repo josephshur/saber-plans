@@ -1,0 +1,12 @@
+.laserbg {
+  background-color: #000000;
+  padding: 140px 0px 100px;
+  background-image: url("../img/lasers2.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.saber-font {
+  font-family: futura;
+}
